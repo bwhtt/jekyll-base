@@ -20,20 +20,6 @@ primary:
     href: /docs/relationships.md
   - text: Service
     href: /docs/service.md
-   # links:
-    #  - text: Demo link A
-     #   href: /two/a/
-      #- text: Demo link B
-       # href: /two/b/
-      #- text: Demo link C
-       # href: /two/c/
-      #- text: Demo link D
-       # href: /two/a/
-      #- text: Demo link E
-       # href: /two/b/
-      #- text: Demo link F
-       # href: /two/c/
-
   - text: About Me
     href: /docs/about.md
   #- text: External link
@@ -41,10 +27,16 @@ primary:
     #external: true
 
 secondary:
-  - text: Documentation
-    href: /docs/
-  - text: Theme
-    href: /theme/
+  - text: Gratitude
+    href: /docs/gratitude.md
+  - text: Learn
+    href: /docs/learn.md
+  - text: Relationships
+    href: /docs/relationships.md
+  - text: Service
+    href: /docs/service.md
+  - text: About Me
+    href: /docs/about.md
 
 docs:
   - text: Sidenav Documentation
