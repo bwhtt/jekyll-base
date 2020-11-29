@@ -1,3 +1,3 @@
 title: Gratitude
 
-layout: pages
+layout: page
