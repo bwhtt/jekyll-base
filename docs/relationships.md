@@ -1,3 +1,3 @@
-title: Home
+title: Relationships
 
-layout: pages
+layout: page
