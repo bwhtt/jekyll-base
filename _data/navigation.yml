@@ -12,10 +12,14 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    href: /docs/
+  - text: Gratitude
+    href: /docs/gratitude.md
+  - text: Learn
+    href: /docs/learn.md
+  - text: Relationships
+    href: /docs/relationship.md
+  - text: Service
+    href: /docs/service.md
    # links:
     #  - text: Demo link A
      #   href: /two/a/
@@ -29,11 +33,12 @@ primary:
        # href: /two/b/
       #- text: Demo link F
        # href: /two/c/
-  - text: Referenced section
-    href: /docs/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+
+  - text: About Me
+    href: /docs/about.md
+  #- text: External link
+    #href: https://18f.gsa.gov
+    #external: true
 
 secondary:
   - text: Documentation
