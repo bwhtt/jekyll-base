@@ -1,3 +1,3 @@
 title: Learn
 
-layout: pages
+layout: page
